@@ -131,7 +131,7 @@
                     <div class="col-sm">
                     <h4>Trainee Management</h4>
                     </div>
-                    <div class="col-sm pl-6">
+                    <!-- <div class="col-sm pl-6">
                         <div class="input-group">
                         <div class="form-outline">
                         <input type="search" id="form1" class="form-control" placeholder="Search"/>
@@ -140,7 +140,7 @@
                         <i class="fas fa-search"></i>
                         </button>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <br><br><br>
                 <div class="row">
